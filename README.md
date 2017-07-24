@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/moteus/lua-travis-example.png?branch=master)](https://travis-ci.org/moteus/lua-travis-example)
-[![Coverage Status](https://coveralls.io/repos/moteus/lua-travis-example/badge.png?branch=master)](https://coveralls.io/r/moteus/lua-travis-example?branch=master)
+[![Build Status](https://travis-ci.org/tst2005/lua-travis-example.png?branch=master)](https://travis-ci.org/tst2005/lua-travis-example)
+[![Coverage Status](https://coveralls.io/repos/tst2005/lua-travis-example/badge.png?branch=master)](https://coveralls.io/r/tst2005/lua-travis-example?branch=master)
 [![License](http://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
 
 ### This project demonstrates how to:
@@ -14,7 +14,7 @@ LuaJIT can be tested using latest stable release (2.0.4) and also current master
 ## Other CI
 
 ### [CodeShip](https://codeship.com)
-[![Codeship Status for moteus/lua-travis-example](https://codeship.com/projects/a57c55e0-c4b7-0132-9bce-0a3d9756066d/status?branch=master)](https://codeship.com/projects/74177)
+[![Codeship Status for tst2005/lua-travis-example](_disabled_https://codeship.com/projects/a57c55e0-c4b7-0132-9bce-0a3d9756066d/status?branch=master)](_disabled_https://codeship.com/projects/74177)
 
 Test environment contain Lua 5.1.2/LuaRocks 2.0.8.
 To use this luarocks you should use local tree to install Lua modules.
